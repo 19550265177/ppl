@@ -5,16 +5,21 @@
   "deadline": "2026-05-10",
   "submissionLink": "",
   "submittedAt": "2026-05-11T02:49:54.199Z",
+  "status": "submitted",
   "files": [
     {
       "name": "微信视频2026-05-11_100430_010.mp4",
       "type": "video/mp4",
-      "size": 539186
+      "size": 539186,
+      "url": "https://raw.githubusercontent.com/19550265177/ppl/main/assignments/1778464903812/微信视频2026-05-11_100430_010.mp4",
+      "githubUrl": "https://github.com/19550265177/ppl/blob/main/assignments/1778464903812/%E5%BE%AE%E4%BF%A1%E8%A7%86%E9%A2%912026-05-11_100430_010.mp4"
     },
     {
       "name": "微信图片_20260510211709_6_465.png",
       "type": "image/png",
-      "size": 126375
+      "size": 126375,
+      "url": "https://raw.githubusercontent.com/19550265177/ppl/main/assignments/1778464903812/微信图片_20260510211709_6_465.png",
+      "githubUrl": "https://github.com/19550265177/ppl/blob/main/assignments/1778464903812/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260510211709_6_465.png"
     }
   ]
 }
